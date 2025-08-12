@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7CWC5q8PJeoILvYBHttRa0Hg43Wy-yzv8c8wH4sqx5QoDSSN8srxOfxD7&s=10" group-title="SPORTS", WWE HD
+http://195.181.161.132/WWE/index.m3u8.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jv7Xbqz/wwe.jpg" group-title="SPORTS", WWE
 https://smart.bengaldigital.live/WWE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6VyzMM9/tsports.jpg" group-title="SPORTS", T Sports 1
