@@ -941,23 +941,23 @@ https://tvsen7.aynaott.com/SaudiTV1HD/index.m3u8?e=1753741273&u=9a031201-22d8-4f
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jv7Xbqz/wwe.jpg" group-title="SPORTS", WWE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jv7Xbqz/wwe.jpg" group-title="Sports", WWE
 https://smart.bengaldigital.live/WWE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6VyzMM9/tsports.jpg" group-title="SPORTS", T Sports 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6VyzMM9/tsports.jpg" group-title="Sports", T Sports 1
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrx9Vf2tgrr3jdgFPrpu1jEE_M7RGIgK56p02C9a1AzbWB4D63kX5GMoRsOiekjFbU46ObpSuKCJpgBFz9TtsX0aiGGeoqAq2Opc5VuC2UVwUR4a0l0gvv3-JkMxqwjtuUWc-D3ohVFYb5LVvHhZY4pqtVfeTO0PWmHryZWG2Ayjv8Zc8/s1600/t%20sports.png" group-title="SPORTS", T Sports 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrx9Vf2tgrr3jdgFPrpu1jEE_M7RGIgK56p02C9a1AzbWB4D63kX5GMoRsOiekjFbU46ObpSuKCJpgBFz9TtsX0aiGGeoqAq2Opc5VuC2UVwUR4a0l0gvv3-JkMxqwjtuUWc-D3ohVFYb5LVvHhZY4pqtVfeTO0PWmHryZWG2Ayjv8Zc8/s1600/t%20sports.png" group-title="Sports", T Sports 2
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="SPORTS", GAZi Tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpJ9JQ6M/20241005-162825.png" group-title="Sports", GAZi Tv
 http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWXvkyZ7/stars1.jpg" group-title="SPORTS", Star Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWXvkyZ7/stars1.jpg" group-title="Sports", Star Sports
 https://starsportshindiii.pages.dev/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/L6fvwswb/1754562495766.jpg", ZIM vs NZ
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/L6fvwswb/1754562495766.jpg", ZIM vs NZ
 https://www.bdixtv24.xyz/proxy.php?url=https%3A%2F%2Fin-mc-fdlive.fancode.com%2Fmumbai%2F128761_english_hls_68173ta-di_h264%2Findex.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3aN0ryLiLSNAhrnn3MnXSPTtEOKGRhKVRJdp_qligKbpjnkRXmTjD_M&s=10", Ten Cricket 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3aN0ryLiLSNAhrnn3MnXSPTtEOKGRhKVRJdp_qligKbpjnkRXmTjD_M&s=10", Ten Cricket 
 http://app.hughag.store/api/6b9c461155/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ImUBV0U8HjOG3jLpecMeEWOc3kWn6ccyVkSa9lwn2TJ9ZFjkpQzTS6M&s=10" group-title="SPORTS", M Sports 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ImUBV0U8HjOG3jLpecMeEWOc3kWn6ccyVkSa9lwn2TJ9ZFjkpQzTS6M&s=10" group-title="Sports", M Sports 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/matribhumitv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwZU-ecqYXjJgAdwoHkoQBNVu3raFFsVD5SzB3Og2vNtaQwAwaGHG6Uw&s=10" group-title="SPORTS", RTA Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwZU-ecqYXjJgAdwoHkoQBNVu3raFFsVD5SzB3Og2vNtaQwAwaGHG6Uw&s=10" group-title="Sports", RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 ## Akash Go ##
