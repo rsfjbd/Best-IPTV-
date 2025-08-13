@@ -830,7 +830,7 @@ https://tvsen6.aynaott.com/cp24/index.m3u8?e=1753741263&u=9a031201-22d8-4f7e-951
 #EXTINF:-1 tvg-id="b4584eb3-f1da-4f1c-ac26-f547598ec2ed" tvg-name="MTV" tvg-logo="https://s3.aynaott.com/storage/1fbfc7fa968ff490b35b7b5cf1db4508" group-title="AYNA OTT",MTV
 https://tvsen6.aynaott.com/mtv/index.m3u8?e=1753741263&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=410ab98894ddc28e4df0472b8841d62b
 
-#EXTINF:-1 tvg-id="f6f1a6ed-4629-4010-b50d-13fa4dd9a575" tvg-name="   	 USA TV" tvg-logo="https://s3.aynaott.com/storage/4a8c4ef5769fdd11b640dcf5795221bd" group-title="AYNA OTT",   	 USA TV
+#EXTINF:-1 tvg-id="f6f1a6ed-4629-4010-b50d-13fa4dd9a575" tvg-name="USA TV" tvg-logo="https://s3.aynaott.com/storage/4a8c4ef5769fdd11b640dcf5795221bd" group-title="AYNA OTT",   	 USA TV
 https://tvsen6.aynaott.com/usa/index.m3u8?e=1753741263&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=8dc04f2ed0ec17d0423c7f6e60804fe3
 
 #EXTINF:-1 tvg-id="df14a727-6c91-4c8f-ba9f-2ae527ce27dd" tvg-name="MSNBC News" tvg-logo="https://s3.aynaott.com/storage/f8c19ede8d86895e54e804d2731e81b4" group-title="AYNA OTT",MSNBC News
