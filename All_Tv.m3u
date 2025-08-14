@@ -1,5 +1,38 @@
 #EXTM3U
 
+## 247 ###
+============
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNDJ5bd/20250522-024451.jpg" group-title="𝟐𝟒𝟕", All Time Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJq8DhC4-umbKOQs5siiM6RtD5q8JgF3k6LVdU4AKP-6_El07i0dbdxlRq&s=10" group-title="𝟐𝟒𝟕", SGCN CINEM
+https://freedishbhai.vercel.app/bpk-tv/SGCN_Hindi_MOB/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mysgcn.com/img/sgcnchannels/sgcn_bangla_cinema.png" group-title="𝟐𝟒𝟕", SCGN সিনেমা
+https://freedishbhai.vercel.app/bpk-tv/SGCN_Bangla_MOB/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx0DZPlqJPVFrdtyeHW9_Ib6CHpgutrwiT6j5GLiIGjg4S1bfFNHRUxKnz&s=10" group-title="𝟐𝟒𝟕", Kolkata Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G20mh9Lj/20250522-025124.jpg" group-title="𝟐𝟒𝟕", Bangla Drams
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYc8gBhr/20250522-025321.jpg" group-title="𝟐𝟒𝟕", Bangla Music
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkS3kyGX/20250522-030456.jpg" group-title="𝟐𝟒𝟕", Hindi Music
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUrBhuJjFmg5TZk7hVQEBtoOs7ejO-gwOOLLe9IAfZvsBblMLMZc0ZBsM&s=10" group-title="𝟐𝟒𝟕", Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26DBWLGP/20250522-030650.jpg" group-title="𝟐𝟒𝟕", Bangla Waz
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWJVL2TV/20250522-030919.jpg" group-title="𝟐𝟒𝟕", Bangla Kirtan
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
+
+
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png",CNN VIP
 http://app.hughag.store/api/7b04dbc2ff/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png",EuroSport HD
