@@ -2,9 +2,9 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jv7Xbqz/wwe.jpg" group-title="SPORTS", WWE
 https://smart.bengaldigital.live/WWE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6VyzMM9/tsports.jpg" group-title="SPORTS", T Sports 1
-http://103.122.252.100:8080/T-SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrx9Vf2tgrr3jdgFPrpu1jEE_M7RGIgK56p02C9a1AzbWB4D63kX5GMoRsOiekjFbU46ObpSuKCJpgBFz9TtsX0aiGGeoqAq2Opc5VuC2UVwUR4a0l0gvv3-JkMxqwjtuUWc-D3ohVFYb5LVvHhZY4pqtVfeTO0PWmHryZWG2Ayjv8Zc8/s1600/t%20sports.png" group-title="SPORTS", T Sports 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnvnS9rgxzd6UmUufxVGl-nwzst7jBZFM-PbM59HoG3jUYzyUPdrW0X9E&s=10" group-title="SPORTS", Ban Vs Ned
+https://globalplay.live/fancode/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/135849_english_hls_26062c147728112ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6VyzMM9/tsports.jpg" group-title="SPORTS", T Sports 2
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9C68th1pite23d5vit1EI6d35XMuVbcuqhaPLKxTVoeSSktHCUA5rFdK&s=10" group-title="SPORTS", A Sports
 https://stream2.aryzap.com/v1/0185aab4885d1ea5578a03c0bfd5/0185aab4ab4e1ea540e60615c5d4/main.m3u8
