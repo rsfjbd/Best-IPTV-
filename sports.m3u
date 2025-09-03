@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jv7Xbqz/wwe.jpg" group-title="SPORTS", WWE
 https://smart.bengaldigital.live/WWE/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnvnS9rgxzd6UmUufxVGl-nwzst7jBZFM-PbM59HoG3jUYzyUPdrW0X9E&s=10" group-title="SPORTS", Ban Vs Ned
-https://globalplay.live/fancode/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/135849_english_hls_26062c147728112ta-di_h264/index.m3u8
+https://saseries.akamaized.net/hls/live/2110097/tappak/hdntl=exp=1756987049~acl=%2f*~data=hdntl~hmac=c83c2cb8f6dbc643a089e7a2c9395cfc1f10e79ba55d6cd9c149073d30fa209f/level_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6VyzMM9/tsports.jpg" group-title="SPORTS", T Sports
 https://tvsen5.aynaott.com/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9C68th1pite23d5vit1EI6d35XMuVbcuqhaPLKxTVoeSSktHCUA5rFdK&s=10" group-title="SPORTS", A Sports
