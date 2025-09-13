@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jv7Xbqz/wwe.jpg" group-title="SPORTS", WWE
 https://smart.bengaldigital.live/WWE/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqEuX5AhgxZVJ-EOx4-mkXtmCkTqa0GXTBpA&s" group-title="SPORTS", Asia Cup 
-https://tvsen5.aynaott.com/Ptvsports/tracks-v1a1/mono.ts.m3u8
+https://tataplay.slivcdn.com/hls/live/2011747-b/TEN1HD/hdntl=exp=1752224858~acl=%2f*~id=1c90cfdf-41fb-46ee-9001-e65e7e3eaf3c~data=hdntl~hmac=bf7104c0ffac89533557334050bb6d10c8e957018114c87cabce14f92f10f4dd/master_3500.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6VyzMM9/tsports.jpg" group-title="SPORTS", T Sports
 https://tvsen5.aynaott.com/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9C68th1pite23d5vit1EI6d35XMuVbcuqhaPLKxTVoeSSktHCUA5rFdK&s=10" group-title="SPORTS", A Sports
