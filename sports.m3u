@@ -21,4 +21,4 @@ http://103.110.111.36:8081/live/spten2_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N65GDCVZ/241705c1-06a9-4694-92c6-0013d1879e42.png" group-title="SPORTS", Sony Ten 5
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwZU-ecqYXjJgAdwoHkoQBNVu3raFFsVD5SzB3Og2vNtaQwAwaGHG6Uw&s=10" group-title="SPORTS", RTA Sports
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+https://v5on.site/PROXIMITY/cric.php?m3u8=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/Cgb6HJ9Zffmyu0pf8J8ewpIFFRvBaOFPVlpS2ybncPaV3Hza5fvbCdBCBZpYw-NMUsKoM_ADXxM32MOhqzkuhw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-private/st_master_dynamic_delta.m3u8?type=live
