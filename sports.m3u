@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",T sports
+#EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="https://www.observerbd.com/2025/12/02/ob_70.1764691635.jpg" group-title="sports", BPL Live 2026
 https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=1042be137f2e9c942b4b4902d15142f94669a4cd-887d4369c1fa9fad7d7bac403842109b-1766758172-1766747372
-#EXTINF:-1 tvg-id="star sports 1" tvg-name="star sports 1" tvg-logo="https://www.observerbd.com/2025/12/02/ob_70.1764691635.jpg" group-title="sports",star sports 1
+#EXTINF:-1 tvg-id="star sports 1" tvg-name="star sports 1" tvg-logo="https://i.postimg.cc/d1cvYX7m/images-(2)-(10).jpg" group-title="sports",star sports 1
 https://edge2.roarzone.info:8443/roarzone/edge2/star-sports-1-hd/index.m3u8?token=52c2f525c4d87178b6ca853f73fdf1cdaa3b3ca4-2a300d0a4352d9f4e63520c2a930df60-1766758172-1766747372
-#EXTINF:-1 tvg-id="star sports 2" tvg-name="star sports 2" tvg-logo="http://tvassets.roarzone.info/images/26.png" group-title="sports",star sports 2
+#EXTINF:-1 tvg-id="star sports 2" tvg-name="star sports 2" tvg-logo="https://i.postimg.cc/WbYv3tFN/images-(2)-(9).jpg" group-title="sports",star sports 2
 https://edge2.roarzone.info:8443/roarzone/edge2/star-sports-2-hd/index.m3u8?token=ade2836a1e09cf587ae02c35f885fb05e424bf6e-83864ecb14afcd152b8cd28fa32ccef5-1766758172-1766747372
-#EXTINF:-1 tvg-id="gazi tv" tvg-name="gazi tv" tvg-logo="http://tvassets.roarzone.info/images/1.png" group-title="sports",gazi tv
+#EXTINF:-1 tvg-id="gazi tv" tvg-name="gazi tv" tvg-logo="https://i.postimg.cc/L6bcS7w9/images-(7).png" group-title="sports",gazi tv
 https://edge2.roarzone.info:8443/roarzone/edge2/gazitv/index.m3u8?token=06654b72b7bcdadcff0b17e22690e3a7d1cf2741-bfada5e5a3c8e134aab378da91f7bb99-1766758172-1766747372
 #EXTINF:-1 tvg-id="ptv spotrs" tvg-name="ptv spotrs" tvg-logo="http://tvassets.roarzone.info/images/73.png" group-title="sports",ptv spotrs
 https://edge2.roarzone.info:8443/roarzone/edge2/ptv/index.m3u8?token=f5b41865aef7cf07e14646212e0c49ecf5ee89d2-1f4b5043be3b51073f5eaa8b8d0aa6dd-1766758172-1766747372
