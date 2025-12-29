@@ -2,6 +2,6 @@
 
 #EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="https://www.observerbd.com/2025/12/02/ob_70.1764691635.jpg" group-title="sports", BPL Live 2026
 https://tvsen7.aynaott.com/tsportshd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="asports" tvg-name="asports" tvg-logo="http://tvassets.roarzone.info/images/add-sports-1.png" group-title="sports",asports
-https://edge2.roarzone.info:8443/roarzone/edge2/asports/index.m3u8?token=d650ed9a1d6aed6bf3bad78bef6e39259f70db5e-67f60eb080ae1e8980b970064b6e7c13-1766758172-1766747372
+#EXTINF:-1 tvg-id="asports" tvg-name="asports" tvg-logo="https://i.postimg.cc/fykTJQWC/20251229-124106.jpg" group-title="sports",A Sports
+https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 
