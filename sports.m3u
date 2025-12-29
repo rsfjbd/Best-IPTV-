@@ -6,6 +6,9 @@ https://bd-mc-fdlive.fancode.com/mumbai/138920_english_hls_c3c8e1c36052146_1ta-d
 #EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3p9HPXP_bNJMfPGfED_Ba3ovjtCy_9MazCyycegeJZKMnD6kYhM0t3LUMw7vnzmK38hB9MqTPqz6y6A-zCfEBzBvU7sY9HTHH8BVb_1NBNBraJDtvDBCk-V7XBlSKcfhypl2r53JQmQ/s16000-rw/T-Sports-Bangladesh-Logo.png" group-title="sports", T Sports
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 
+#EXTINF:-1 tvg-id="A League 2025-26" tvg-name="A League 2025-26" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138811_5802_MLV_WEL_fc-web.jpg" group-title="sports", A League 2025-26
+https://bd-mc-fdlive.fancode.com/mumbai/138811_english_hls_c0a013213253363_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-id="A Sports" tvg-name="A Sports" tvg-logo="https://i.postimg.cc/fykTJQWC/20251229-124106.jpg" group-title="sports",A Sports
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 
