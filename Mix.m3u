@@ -1,4 +1,60 @@
 #EXTM3U
+# Created by @AbuSaeedX
+# Total channels: 315
+# Generated: 2025
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/c245146cd178f9da3ce14ccfec5c68caf1373029/x-fire-flix.png" group-title="BY X fire Flix",X fire Flix
+https://raw.githubusercontent.com/HelloPeopleTv4you/live/refs/heads/main/byxfireflix/BY-X-FIRE-FLIX.mp4
+#EXTINF:-1 tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Recorded TV",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1753741197&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=471c8c3f6a6fd5aad81f265f11e3ed2b
+#EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Recorded TV",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1753741197&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=603a6374cb20aa96f523c1c04e820f85
+#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Recorded TV",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1753741198&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=6ddc3f5138ef3edb10174916c654880f
+#EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="Recorded TV",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1753741198&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=19e5421b215c0b8937049f0ea7e35a3d
+#EXTINF:-1 tvg-id="9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c" tvg-name="Duronto TV" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="Recorded TV",Duronto TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8?e=1753820399&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=3c1710d8863f5f27343194bdfb5f5309
+#EXTINF:-1 tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Channels",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1753741200&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=4dc66f272e2e0797c300f871ec29e7ac
+#EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Channels",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1753741200&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=8518bab8ef9355885a2e9c3fbbd55b47
+#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Channels",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1753741200&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=3d1a0272a03dccbd358530e453306a0e
+#EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="Channels",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1753741201&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=de21479033f8c7cb7372ac9c67473834
+#EXTINF:-1 tvg-id="b1808fb2-8892-49dc-965e-d038e5334995" tvg-name="Gazi TV" tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c" group-title="Channels",Gazi TV
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1753741202&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=25899d937e0a887d71c3d543b8a6220e
+#EXTINF:-1 tvg-id="ed1ad924-f9f2-4302-97df-987bffb2b32e" tvg-name="Aakaash Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" group-title="Channels",Aakaash Bangla TV
+https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8?e=1753741215&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=e9f0e684705f8f159588c0a0da465695
+#EXTINF:-1 tvg-id="7141c05b-97cd-4dd1-9584-423c7a5ce13d" tvg-name="Republic Bangla" tvg-logo="https://s3.aynaott.com/storage/68f655a765e55c45ef9d086cec71606c" group-title="Channels",Republic Bangla
+https://tvsen5.aynaott.com/R_Bangla/index.m3u8?e=1753741216&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=9ff0ce48f552dd371ddd63aa011d7539
+#EXTINF:-1 tvg-id="247cf723-3c1d-47bc-b765-64da2623a297" tvg-name="News India 24x7" tvg-logo="https://s3.aynaott.com/storage/9f4112fd1e33156e5d4101d60fdd3458" group-title="Channels",News India 24x7
+https://tvsen5.aynaott.com/NewsIndia24x7/index.m3u8?e=1753741217&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=bc129d451d7d69788b4cb016b12a2237
+#EXTINF:-1 tvg-id="aab9a12d-b5a5-4028-8c92-94ea9d302f4e" tvg-name="Sky News" tvg-logo="https://s3.aynaott.com/storage/128d0977af19a75a7fa3207f6808ed97" group-title="News",Sky News
+https://tvsen5.aynaott.com/skynews/index.m3u8?e=1753741238&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=fc4f4b119cf177afb9686a2d2aae69c1
+#EXTINF:-1 tvg-id="9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c" tvg-name="Duronto TV" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="Kids",Duronto TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8?e=1753820441&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=4f1e3076e045b78b23ec96556c114bd4
+#EXTINF:-1 tvg-id="1f6fd722-dea2-4463-8938-81e6bdc94189" tvg-name="Disney XD" tvg-logo="https://s3.aynaott.com/storage/3817227a6b180dc147a89c2b667acf50" group-title="Kids",Disney XD
+https://tvsen5.aynaott.com/disneyxd/index.m3u8?e=1753741245&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=df59dec57ecd9c7f471790a1c3889d16
+#EXTINF:-1 tvg-id="d188a20a-8640-4511-a228-3a141c675629" tvg-name="Family JR" tvg-logo="https://s3.aynaott.com/storage/a4430d70a74aab1c1a284f4dae8131df" group-title="Kids",Family JR
+https://tvsen5.aynaott.com/familyjr/index.m3u8?e=1753741245&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a99a1a4bb499870f0f70611615cdb257
+#EXTINF:-1 tvg-id="db46c74d-d2d2-4044-bc04-173f15a23864" tvg-name="Universal Kids" tvg-logo="https://s3.aynaott.com/storage/34b34ea697a61867328a54056832957b" group-title="Kids",Universal Kids
+https://tvsen5.aynaott.com/universalkids/index.m3u8?e=1753741246&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=37d35e0658a2c03607bb7dbdb6231aa9
+#EXTINF:-1 tvg-id="0b0235db-e5b4-48d9-95bc-30a7e3228947" tvg-name="Sony TV HD" tvg-logo="https://s3.aynaott.com/storage/838ac6ede3fca74f793cde5dccabf3c4" group-title="Hindi",Sony TV HD
+https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8?e=1753741256&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=2307379a651d0e706988c9e3541a0722
+#EXTINF:-1 tvg-id="1124edfa-0c73-4389-8c8c-988b8ae65460" tvg-name="HBO" tvg-logo="https://s3.aynaott.com/storage/2576d772b73b7bc7535cdfe4c656a56f" group-title="English",HBO
+https://tvsen5.aynaott.com/hbo/index.m3u8?e=1753741259&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=8d7eb97c686d103ec5789eccfa78d462
+#EXTINF:-1 tvg-id="6aa7469a-89a8-4c46-a141-90fe1fff7893" tvg-name="Discovery Family" tvg-logo="https://s3.aynaott.com/storage/1286549bfbdf6c3b4ff1f259b4d52bb4" group-title="English",Discovery Family
+https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1753741260&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=c5b9f21ebba0468e5d833298200f02a5
+#EXTINF:-1 tvg-id="b0684b5d-0e56-4429-8f64-55d8c18fcc1c" tvg-name="Iqra Bangla" tvg-logo="https://s3.aynaott.com/storage/19e62cfd082b5cd7b254fb9f75f2f763" group-title="Religious",Iqra Bangla
+https://tvsen5.aynaott.com/iqrabangla/index.m3u8?e=1753741265&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=8edbdfaa5a388a1ef6591a9163ef5a00
+#EXTINF:-1 tvg-id="2eb119c5-7864-421a-a153-8d6b7b372e9b" tvg-name="TV ONE" tvg-logo="https://s3.aynaott.com/storage/2a5dd1494cbeb28bfa70ba2b7d8682e1" group-title="Religious",TV ONE
+https://tvsen5.aynaott.com/tvone/index.m3u8?e=1753741265&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=0ffb021b71b81d96ad6929f172ea533d
+#EXTINF:-1 tvg-id="890a1a92-0602-4c2d-93ca-a2c43e7aec54" tvg-name="Zee Bangla International" tvg-logo="https://s3.aynaott.com/storage/104a86bd3ae874796e873dae9ebe1b40" group-title="Indian Bangla",Zee Bangla International
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8?e=1754812292&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=14674aa2b8d3658b329a595a5fab4e7d
 
 
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
@@ -928,8 +984,14 @@ https://tvsen6.aynaott.com/NR1/index.m3u8?e=1753741272&u=9a031201-22d8-4f7e-9516
 #EXTINF:-1 tvg-id="bdf309a5-d732-45d8-989a-5ad5defd0224" tvg-name="Power Turk" tvg-logo="https://s3.aynaott.com/storage/4329cb48da7e29dff8be49eb4f80c4cd" group-title="Türkiye",Power Turk
 https://tvsen6.aynaott.com/PowerTurkTV/index.m3u8?e=1753741272&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=12487bb826c21584d19a8b241d46e893
 
-#EXTINF:-1 tvg-id="dd837351-ae92-4ce1-b5d4-1ceece83accf" tvg-name="Peace TV Urdu HD" tvg-logo="https://s3.aynaott.com/storage/0474144be69d57b0cabcb3245f032404" group-title="Urdhu",Peace TV Urdu HD
-https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8?e=1753741273&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=cc5298bc484f6cca06c2346b46bb09e2
+#EXTINF:-1 tvg-id="a16b35c8-a0b5-4db2-b094-24bf59b32583" tvg-name="Hum Masala" tvg-logo="https://s3.aynaott.com/storage/5b3f59d3e3f6d945c0f1745eec7e2970" group-title="Urdhu",Hum Masala
+https://tvsen7.aynaott.com/HumMasalaTVHD/index.m3u8?e=1754812290&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=fd3a227dcd7f9b26296b7f508dc86cc3
 
-#EXTINF:-1 tvg-id="6e4ce5ee-32ea-4ecd-8893-6909c4cabee8" tvg-name="Saudi TV1 HD" tvg-logo="https://s3.aynaott.com/storage/736bf5e77758249c1695e4299577b987" group-title="Arabic",Saudi TV1 HD
-https://tvsen7.aynaott.com/SaudiTV1HD/index.m3u8?e=1753741273&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=d67eed0cbd8a4d8249cf8e5067f6b477
+#EXTINF:-1 tvg-id="bd3a94f1-a573-4f5f-bc9a-18153d877544" tvg-name="Hum TV" tvg-logo="https://s3.aynaott.com/storage/b361ec9c0f3e5a7424830f5febc14ecb" group-title="Urdhu",Hum TV
+https://tvsen7.aynaott.com/HumTVHD/index.m3u8?e=1754812291&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=f575aeb925ea08e38e10a83e0df46302
+
+#EXTINF:-1 tvg-id="d29785d3-eb59-443a-9e29-ed161fc860ae" tvg-name="Hum Sitaray" tvg-logo="https://s3.aynaott.com/storage/bca46daf3abaa95116940ea3537413ff" group-title="Urdhu",Hum Sitaray
+https://tvsen7.aynaott.com/HumSitarayHD/index.m3u8?e=1754812291&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=93c9c42ebfead6cb2c0099e4eb70244b
+
+#EXTINF:-1 tvg-id="890a1a92-0602-4c2d-93ca-a2c43e7aec54" tvg-name="Zee Bangla International" tvg-logo="https://s3.aynaott.com/storage/104a86bd3ae874796e873dae9ebe1b40" group-title="Indian Bangla",Zee Bangla International
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8?e=1754812292&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=14674aa2b8d3658b329a595a5fab4e7d
