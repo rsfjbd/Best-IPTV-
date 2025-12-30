@@ -3,12 +3,31 @@
 #EXTINF:-1 tvg-id="BPL LIVE" tvg-name="BPL LIVE" tvg-logo="https://www.observerbd.com/2025/12/02/ob_70.1764691635.jpg" group-title="sports", BPL Live 
 https://bd-mc-fdlive.fancode.com/mumbai/138920_english_hls_c3c8e1c36052146_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3p9HPXP_bNJMfPGfED_Ba3ovjtCy_9MazCyycegeJZKMnD6kYhM0t3LUMw7vnzmK38hB9MqTPqz6y6A-zCfEBzBvU7sY9HTHH8BVb_1NBNBraJDtvDBCk-V7XBlSKcfhypl2r53JQmQ/s16000-rw/T-Sports-Bangladesh-Logo.png" group-title="sports", T Sports
+#EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3p9HPXP_bNJMfPGfED_Ba3ovjtCy_9MazCyycegeJZKMnD6kYhM0t3LUMw7vnzmK38hB9MqTPqz6y6A-zCfEBzBvU7sY9HTHH8BVb_1NBNBraJDtvDBCk-V7XBlSKcfhypl2r53JQmQ/s16000-rw/T-Sports-Bangladesh-Logo.png" group-title="sports",Sports 
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 
-#EXTINF:-1 tvg-id="A League 2025-26" tvg-name="A League 2025-26" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138811_5802_MLV_WEL_fc-web.jpg" group-title="sports", A League 2025-26
+#EXTINF:-1 tvg-id="A League 2025-26" tvg-name="A League 2025-26" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138811_5802_MLV_WEL_fc-web.jpg" group-title="sports",Sports 
 https://bd-mc-fdlive.fancode.com/mumbai/138811_english_hls_c0a013213253363_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="A Sports" tvg-name="A Sports" tvg-logo="https://i.postimg.cc/fykTJQWC/20251229-124106.jpg" group-title="sports",A Sports
+#EXTINF:-1 tvg-id="A Sports" tvg-name="A Sports" tvg-logo="https://i.postimg.cc/fykTJQWC/20251229-124106.jpg" group-title="sports",Sports
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+
+#EXTINF:-1 tvg-id="A Sports" tvg-name="Teen Cricket HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsMByeKqxH0VgECVzcydcCzEyw7SzWXemIJ6LRDja-rf2acHFKmga3D9YlrJj1YERTHzkAZuQRWqiH5q8Knr5nDoRgPCBK" group-title="sports",Sports
+https://satoshi-cors.herokuapp.com/http://178.33.239.54:8080/509/index.m3u8
+
+#EXTINF:-1 tvg-id="A Sports" tvg-name="Sony Ten1 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi142q8F6LnlX90kVHq0yw5swgHAZW1P-8A6J-kMzHHgR0pPRb7kpM4mYfpYzYK7PE1WjnMhRSU5E1QBcT1bMNTganeBlUb" group-title="sports",Sports
+https://falconftp.noobmaster.xyz/SONYSPORTS1HD/index.m3u8
+
+#EXTINF:-1 tvg-id="A Sports" tvg-name="Sony Ten2 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjStMzL4ommPuFP9XfcYsI4kg4gMaSfFQchIqRS5VvrpQ1iJo_-VVvPy-ScpEEh4WXhOOa_3pyHzd" group-title="sports",Sports
+https://falconftp.noobmaster.xyz/SONYSPORTS2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="A Sports" tvg-name="Sony Ten3 HD" tvg-logo="https://i.postimg.cc/fykTJQWC/20251229-124106.jpg" group-title="sports",Sports
+https://satoshi-cors.herokuapp.com/http://178.33.239.54:8080/503/index.m3u8
+
+#EXTINF:-1 tvg-id="A Sports" tvg-name="Sony Ten5 HD" tvg-logo="https://i.postimg.cc/fykTJQWC/20251229-124106.jpg" group-title="sports",Sports
+https://falconftp.noobmaster.xyz/SONYSPORTS5HD/index.m3u8
+
+#EXTINF:-1 tvg-id="A Sports" tvg-name="Eurosport HD" tvg-logo="https://i.postimg.cc/fykTJQWC/20251229-124106.jpg" group-title="sports",Sports 
+https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+
 
