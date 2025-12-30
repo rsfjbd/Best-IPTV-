@@ -12,16 +12,16 @@ https://bd-mc-fdlive.fancode.com/mumbai/138811_english_hls_c0a013213253363_1ta-d
 #EXTINF:-1 tvg-id="A Sports" tvg-name="A Sports" tvg-logo="https://i.postimg.cc/fykTJQWC/20251229-124106.jpg" group-title="sports",Sports
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 
-#EXTINF:-1 tvg-id="A Sports" tvg-name="Teen Cricket HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsMByeKqxH0VgECVzcydcCzEyw7SzWXemIJ6LRDja-rf2acHFKmga3D9YlrJj1YERTHzkAZuQRWqiH5q8Knr5nDoRgPCBK" group-title="sports",Sports
+#EXTINF:-1 tvg-id="A Sports" tvg-name="TNT Sports 1" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=png&p=true&q=60&w=360zkAZuQRWqiH5q8Knr5nDoRgPCBK" group-title="sports",Sports
 https://satoshi-cors.herokuapp.com/http://178.33.239.54:8080/509/index.m3u8
 
 #EXTINF:-1 tvg-id="A Sports" tvg-name="Sony Ten1 HD" tvg-logo="https://i.postimg.cc/J4VzkPDH/Sony-Sports-1.png" group-title="sports",Sports
 https://falconftp.noobmaster.xyz/SONYSPORTS1HD/index.m3u8
 
-#EXTINF:-1 tvg-id="A Sports" tvg-name="Sony Ten2 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjStMzL4ommPuFP9XfcYsI4kg4gMaSfFQchIqRS5VvrpQ1iJo_-VVvPy-ScpEEh4WXhOOa_3pyHzd" group-title="sports",Sports
+#EXTINF:-1 tvg-id="A Sports" tvg-name="Sony Ten2 HD" tvg-logo="https://i.postimg.cc/W4MQxwpX/20241101-154512.png" group-title="sports",Sports
 https://falconftp.noobmaster.xyz/SONYSPORTS2HD/index.m3u8
 
-#EXTINF:-1 tvg-id="A Sports" tvg-name="Sony Ten3 HD" tvg-logo="https://i.postimg.cc/fykTJQWC/20251229-124106.jpg" group-title="sports",Sports
+#EXTINF:-1 tvg-id="A Sports" tvg-name="Sony Ten3 HD" tvg-logo="https://i.postimg.cc/fRdF0f9H/20241101-154423.png" group-title="sports",Sports
 https://satoshi-cors.herokuapp.com/http://178.33.239.54:8080/503/index.m3u8
 
 #EXTINF:-1 tvg-id="A Sports" tvg-name="Sony Ten5 HD" tvg-logo="https://i.postimg.cc/2SjmQJz6/20241113-151743.png" group-title="sports",Sports
