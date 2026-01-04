@@ -1,10 +1,9 @@
 #EXTM3U
 ## Sports ##
 -------------
-#EXTINF:-1 tvg-id="BPL LIVE" tvg-name="BPL LIVE" tvg-logo="https://www.observerbd.com/2025/12/02/ob_70.1764691635.jpg" group-title="sports", BPL Live 
+
+#EXTINF:-1 tvg-logo="https://www.observerbd.com/2025/12/02/ob_70.1764691635.jpg" group-title="Sports", BPL LIVE
 https://bd-mc-fdlive.fancode.com/mumbai/138920_english_hls_c3c8e1c36052146_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://bplt20.com.bd/images/Bpl-2026-Logo.png" group-title="Sports", BPL LIVE
-https://edge2.roarzone.info:8443/roarzone/edge2/nagorik/index.m3u8?token=f0f58390cae39eba255a8299475c0c6f46e20ba2-74cc40761e7c66152fd2a1b345e9f6c9-1767521544-1767517944
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6VyzMM9/tsports.jpg" group-title="Sports", T Sports 1
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrx9Vf2tgrr3jdgFPrpu1jEE_M7RGIgK56p02C9a1AzbWB4D63kX5GMoRsOiekjFbU46ObpSuKCJpgBFz9TtsX0aiGGeoqAq2Opc5VuC2UVwUR4a0l0gvv3-JkMxqwjtuUWc-D3ohVFYb5LVvHhZY4pqtVfeTO0PWmHryZWG2Ayjv8Zc8/s1600/t%20sports.png" group-title="Sports", T Sports 2
