@@ -6,12 +6,6 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVNDJ5bd/20250522-024451.jpg" group-title="𝟐𝟒𝟕", All Time Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJq8DhC4-umbKOQs5siiM6RtD5q8JgF3k6LVdU4AKP-6_El07i0dbdxlRq&s=10" group-title="𝟐𝟒𝟕", SGCN CINEM
-https://freedishbhai.vercel.app/bpk-tv/SGCN_Hindi_MOB/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mysgcn.com/img/sgcnchannels/sgcn_bangla_cinema.png" group-title="𝟐𝟒𝟕", SCGN সিনেমা
-https://freedishbhai.vercel.app/bpk-tv/SGCN_Bangla_MOB/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx0DZPlqJPVFrdtyeHW9_Ib6CHpgutrwiT6j5GLiIGjg4S1bfFNHRUxKnz&s=10" group-title="𝟐𝟒𝟕", Kolkata Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 
