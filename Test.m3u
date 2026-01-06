@@ -1,6 +1,12 @@
 #EXTM3U
 
 #--- NEWS CATEGORY ---
+#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/tlogo.jpg" group-title="News",Tspots
+http://103.60.204.26:3255/TSportsHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/fimg1.jpg" group-title="News",ALL Sports 1
+http://103.60.204.26:3255/dazn/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/fimg1.jpg" group-title="News",ALL Sports 2
+http://103.60.204.26:3255/EPLchannel1/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/Jamuna%20Tv1664825738.png" group-title="News",JamunaTv
 http://103.60.204.26:3255/JAMUNATV/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/images(1).jpg" group-title="News",Rtv
