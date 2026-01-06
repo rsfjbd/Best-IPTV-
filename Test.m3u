@@ -1,12 +1,6 @@
 #EXTM3U
 
 #--- NEWS CATEGORY ---
-#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/tlogo.jpg" group-title="News",Tspots
-http://103.60.204.26:3255/TSportsHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/fimg1.jpg" group-title="News",ALL Sports 1
-http://103.60.204.26:3255/dazn/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/fimg1.jpg" group-title="News",ALL Sports 2
-http://103.60.204.26:3255/EPLchannel1/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/Jamuna%20Tv1664825738.png" group-title="News",JamunaTv
 http://103.60.204.26:3255/JAMUNATV/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/images(1).jpg" group-title="News",Rtv
@@ -97,13 +91,13 @@ http://103.60.204.26:3255/lg7_p_b1/index.m3u8
 http://103.60.204.26:3255/lg6_p/index.m3u8
 
 #--- ENTERTAINMENT CATEGORY ---
-#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/6984812b-1c24-43cf-bded-3803c3f17bdd.png" group-title="Ent",ZeeBangla
-http://103.60.204.26:3255/ZeeBangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/starjol.jpeg" group-title="Ent",Star jalsha
+#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/starjol.jpeg" group-title="Kolkata",Star jalsha
 http://103.60.204.26:3255/star_jolsha/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="Ent",SonySABHD
+#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/6984812b-1c24-43cf-bded-3803c3f17bdd.png" group-title="Kolkata",ZeeBangla
+http://103.60.204.26:3255/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="Kolkata",SonySABHD
 http://103.60.204.26:3255/SonySABHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/channels4_psrofile.jpg" group-title="Ent",ARYDigitalasia
+#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/channels4_psrofile.jpg" group-title="Kolkata",ARYDigitalasia
 http://103.60.204.26:3255/ARYDigitalasia/index.m3u8
 
 #--- INFO CATEGORY ---
