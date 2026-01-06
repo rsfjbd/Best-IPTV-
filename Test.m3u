@@ -95,6 +95,8 @@ http://103.60.204.26:3255/lg6_p/index.m3u8
 http://103.60.204.26:3255/star_jolsha/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/6984812b-1c24-43cf-bded-3803c3f17bdd.png" group-title="Kolkata",ZeeBangla
 http://103.60.204.26:3255/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/f4db1c12-b10f-46e8-a09b-e0efb8820970.png" group-title="Kolkata",SonyAath
+http://103.60.204.26:3255/SonyAath/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="Kolkata",SonySABHD
 http://103.60.204.26:3255/SonySABHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/channels4_psrofile.jpg" group-title="Kolkata",ARYDigitalasia
@@ -115,8 +117,6 @@ http://103.60.204.26:3255/MakkahLive/index.m3u8
 http://103.60.204.26:3255/MedinawithLive1/index.m3u8
 
 #--- MOVIE CATEGORY ---
-#EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/f4db1c12-b10f-46e8-a09b-e0efb8820970.png" group-title="Movie",SonyAath
-http://103.60.204.26:3255/SonyAath/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="Movie",SonyEnt
 http://103.60.204.26:3255/SonyEntertainmentTelevisionHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.60.204.26/static/images/startmovies.png" group-title="Movie",STARMovies
